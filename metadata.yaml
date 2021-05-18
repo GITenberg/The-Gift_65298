@@ -1,0 +1,20 @@
+_repo: The-Gift_65298
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sturgis, Melvin
+    gutenberg_agent_id: '35628'
+    url: http://www.gutenberg.org/2009/agents/35628
+description: ''
+gutenberg_issued: '2021-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65298'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Gift
+url: http://www.gutenberg.org/ebooks/65298
